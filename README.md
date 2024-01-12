@@ -38,5 +38,8 @@ The doughnut chart provides a visual breakdown of total costs by city, with the 
 ## snapshot
 ![Screenshot 2024-01-12 111347](https://github.com/sakshibadoni21/Energy-Consumption-Dashboard/assets/152711814/0c806105-4839-408e-89db-6a9338f98683)
 
+## key Insights
+
+## 
 
 
