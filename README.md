@@ -22,5 +22,6 @@ The pie chart and stacked bar chart illustrate the breakdown of energy consumpti
 The "Unit Consumed by Building" section shows a bar chart with data on how much energy is consumed by different buildings, indicating the dashboard's ability to drill down into finer details.
 
 ## SnapShort
-![Screenshot 2024-01-12 103423](https://github.com/sakshibadoni21/Energy-Consumption-Dashboard/assets/152711814/1630f721-0205-4c1b-aae7-de61cb7830f5)
+![Screenshot 2024-01-12 110503](https://github.com/sakshibadoni21/Energy-Consumption-Dashboard/assets/152711814/cc5e2bd2-1fb1-4b1f-bbca-36687552bf97)
+
 
