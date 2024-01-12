@@ -40,6 +40,22 @@ The doughnut chart provides a visual breakdown of total costs by city, with the 
 
 ## key Insights
 
-## 
+## 1.Interactivity and Filtering: 
+The dashboard includes dropdown menus for filtering by building, city, and date, which suggests that it is interactive and allows users to focus on specific data sets.
+
+## 2. Summary Metrics: 
+At the top, there are large summary metrics indicating the total cost ($2.03M) and total units consumed (22M), providing a quick overview of the electricity consumption and expenditure.
+
+## 3. Time Series Analysis: 
+There's a line chart labeled "Total Cost by Date and Consumption Type" showing the cost trend over time, which can be valuable for identifying patterns or anomalies in energy consumption costs.
+
+## 4.Geographical Cost Distribution:
+A horizontal bar chart titled "Total Cost by City" compares the cost across different cities, which could be useful for regional analysis and cost management.
+
+## 5. Detailed Data Table:
+There is a data table showing a breakdown by year, quarter, month, unit consumed, and total cost, providing detailed insights into consumption and cost over time.
+
+## 6. Consumption by Building: 
+At the bottom, there is a bar chart named "Unit Consumed by Building", showing the distribution of energy consumption across different buildings, which is useful for identifying which buildings are the highest consumers of electricity.
 
 
