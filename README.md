@@ -77,6 +77,10 @@ A data table offers a granular view with columns for year, quarter, month, unit 
 ## 5.Consumption Patterns by Building: 
 There's a bar chart at the bottom showing "Unit Consumed by Building," which indicates the gas consumption for each building. This is useful for determining which buildings are the largest consumers of gas.
 
+## Conclusion
+
+The Energy Consumption Dashboard effectively addresses challenges in tracking, analyzing, and optimizing energy usage. With robust features for geographical, temporal, and building-specific insights, it provides a comprehensive tool for energy managers. Key functionalities include real-time tracking, interactive filtering, detailed summaries, and trend analyses, empowering users to make informed decisions for cost reduction and efficiency improvements.
+
 
 
 
