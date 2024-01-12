@@ -58,4 +58,10 @@ There is a data table showing a breakdown by year, quarter, month, unit consumed
 ## 6. Consumption by Building: 
 At the bottom, there is a bar chart named "Unit Consumed by Building", showing the distribution of energy consumption across different buildings, which is useful for identifying which buildings are the highest consumers of electricity.
 
+## SnapShot
+![Screenshot 2024-01-12 122447](https://github.com/sakshibadoni21/Energy-Consumption-Dashboard/assets/152711814/9cdbd616-5767-4596-a04b-b8f3d7336326)
+
+
+
+
 
