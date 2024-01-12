@@ -33,6 +33,28 @@
 5.	Building-Specific Data:
 •	"Unit Consumed by Building" bar chart drills down into finer details of energy consumption across buildings.
 
+## Water Consumption:
+1.	Total Water Consumption:
+•	Total Cost: $10.81M
+•	Total Units Consumed: 186M
+•	Trend Analysis: "Total Cost by Date and Consumption Type" line graph identifies fluctuations over time.
+•	City-Specific Distribution: Doughnut chart visually breaks down water costs by city.
+## Electricity Consumption:
+1.	Total Electricity Consumption:
+•	Total Cost: $2.03M
+•	Total Units Consumed: 22M
+•	Interactivity and Filtering: Dropdown menus for building, city, and date enhance user engagement.
+•	Time Series Analysis: "Total Cost by Date and Consumption Type" line chart for trend identification.
+•	Geographical Cost Distribution: Horizontal bar chart compares costs across cities.
+## Gas Consumption:
+1.	Total Gas Consumption:
+•	Total Cost: $3.01M
+•	Total Units Consumed: 3M
+•	Time Series Analysis: "Total Cost by Date and Consumption Type" line chart highlights trends.
+•	Geographical Analysis: "Total Cost by City" bar chart for regional cost comparison.
+•	Detailed Data Breakdown: Data table offers granular insights into gas consumption.
+
+
 
 
 
