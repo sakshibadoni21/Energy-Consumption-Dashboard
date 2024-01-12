@@ -61,6 +61,22 @@ At the bottom, there is a bar chart named "Unit Consumed by Building", showing t
 ## SnapShot
 ![Screenshot 2024-01-12 122447](https://github.com/sakshibadoni21/Energy-Consumption-Dashboard/assets/152711814/9cdbd616-5767-4596-a04b-b8f3d7336326)
 
+## Key Insights
+## 1.Summary Metrics: 
+The dashboard displays the total cost of gas consumption as $3.01M and the total units consumed as 3M, providing a high-level summary of the gas-related expenses and usage.
+
+## 2.Time Series Analysis: 
+There is a line chart with a title "Total Cost by Date and Consumption Type" which shows the total cost associated with gas consumption over time. This can highlight trends or seasonal variations in gas expenditure.
+
+## 3.Geographical Cost Analysis: 
+A bar chart titled "Total Cost by City" compares the gas consumption costs across different cities. This visualization can help in identifying which cities are incurring higher costs and may benefit from targeted energy-saving measures.
+
+## 4.Detailed Data Breakdown: 
+A data table offers a granular view with columns for year, quarter, month, unit consumed, and total cost. This detailed data can be important for in-depth analysis and pinpointing specific time frames with unusual consumption patterns.
+
+## 5.Consumption Patterns by Building: 
+There's a bar chart at the bottom showing "Unit Consumed by Building," which indicates the gas consumption for each building. This is useful for determining which buildings are the largest consumers of gas.
+
 
 
 
