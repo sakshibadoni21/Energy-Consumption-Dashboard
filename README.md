@@ -19,8 +19,7 @@
 ## Overview
 1.	Total Cost and Consumption Tracking:
 •	Total Cost: $15.84M
-•	Total Units Consumed: 210M
-•	Effective tracking and aggregation of financial and quantitative energy usage data.
+•	Total Units Consumed: 210M.Effective tracking and aggregation of financial and quantitative energy usage data.
 2.	Geographical Cost Analysis:
 •	"Total Cost by City" map allows for region-specific analysis.
 •	Enhances understanding of cost distribution across different cities.
