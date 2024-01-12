@@ -18,13 +18,12 @@ The summary section states that New York had the highest total cost which was 20
 ## 4. Consumption Type Breakdown:
 The pie chart and stacked bar chart illustrate the breakdown of energy consumption by type (Water, Electricity, Gas) and changes in consumption patterns over time.
 
-## snapshot
-![Screenshot 2024-01-12 111347](https://github.com/sakshibadoni21/Energy-Consumption-Dashboard/assets/152711814/0c806105-4839-408e-89db-6a9338f98683)
-ot
-
-
 ## 5.Building-Specific Data:
 The "Unit Consumed by Building" section shows a bar chart with data on how much energy is consumed by different buildings, indicating the dashboard's ability to drill down into finer details.
+
+## snapshot
+![Screenshot 2024-01-12 111347](https://github.com/sakshibadoni21/Energy-Consumption-Dashboard/assets/152711814/0c806105-4839-408e-89db-6a9338f98683)
+
 
 ## SnapShort
 ![Screenshot 2024-01-12 110503](https://github.com/sakshibadoni21/Energy-Consumption-Dashboard/assets/152711814/cc5e2bd2-1fb1-4b1f-bbca-36687552bf97)
