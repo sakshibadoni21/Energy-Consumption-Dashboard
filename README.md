@@ -1,6 +1,7 @@
 # Energy Consumption Dashboard
 ## Problem Statement
- The dashboard is likely used by energy managers or financial analysts to monitor and analyze energy costs and consumption across various dimension(geographical, temporal, by type, and by building) to identify areas for cost reduction and efficiency improvements. The Energy Consumption Dashboard aims to provide comprehensive real-time monitoring and analysis of energy usage and costs across multiple locations and types. Issues to address include ensuring the accuracy and integrity of data from diverse sources, optimizing the dashboard for high performance with expanding datasets, enhancing user interaction for a more intuitive experience, and developing new features to deepen analytical capabilities. 
+ Energy Consumption Dashboard offers real-time insights into energy costs and consumption. Geared towards identifying cost reduction opportunities and enhancing efficiency, the dashboard tackles challenges such as data accuracy, performance optimization, and user interaction improvements. With a focus on geographic, temporal, type, and building-specific analytics, goal is to provide a powerful yet user-friendly tool. Continuous development ensures the dashboard evolves to meet the dynamic needs of energy management, fostering a culture of data-driven decision-making and efficiency improvement.
+
 
 ## SnapShorts
 ## Energy Concumption Dashboard | Overview
