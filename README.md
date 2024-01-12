@@ -24,6 +24,17 @@ The "Unit Consumed by Building" section shows a bar chart with data on how much 
 ## SnapShort
 ![Screenshot 2024-01-12 110503](https://github.com/sakshibadoni21/Energy-Consumption-Dashboard/assets/152711814/cc5e2bd2-1fb1-4b1f-bbca-36687552bf97)
 
+## key Insights
+
+## 1.Total Water Consumption Costs and Usage: 
+The dashboard indicates a total water consumption cost of 10.81M and 186M units consumed, illustrating its capability to track water-related energy expenditure and usage volumes.
+
+## 2.Trend Analysis Over Time:
+A line graph titled "Total Cost by Date and Consumption Type" displays the fluctuation of water costs over time, which can help in identifying trends, seasonal patterns, or anomalies in water consumption costs.
+
+## 3.City-Specific Cost Distribution: 
+The doughnut chart provides a visual breakdown of total costs by city, with the ability
+
 ## snapshot
 ![Screenshot 2024-01-12 111347](https://github.com/sakshibadoni21/Energy-Consumption-Dashboard/assets/152711814/0c806105-4839-408e-89db-6a9338f98683)
 
