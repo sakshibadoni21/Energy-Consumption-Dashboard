@@ -3,28 +3,13 @@
  Energy Consumption Dashboard offers real-time insights into energy costs and consumption. Geared towards identifying cost reduction opportunities and enhancing efficiency, the dashboard tackles challenges such as data accuracy, performance optimization, and user interaction improvements. With a focus on geographic, temporal, type, and building-specific analytics, goal is to provide a powerful yet user-friendly tool. Continuous development ensures the dashboard evolves to meet the dynamic needs of energy management, fostering a culture of data-driven decision-making and efficiency improvement.
 
  ## Steps Taken
- Data Extraction and Transformation:
-•	Data sourced from an Excel spreadsheet.
-•	Power Query used to load and transform data with the first row as headers.
-•	Selected the "Energy Consumption" dataset and unpivoted relevant columns.
-Key Creation for Rate Table:
-•	Created a rate table with "Year" and "Energy Type."
-•	Generated a composite key, "Key," by merging "Year" and "Energy Type" columns.
-Key Creation for Energy Consumption Table:
-•	Created a similar "Key" which is the name of the column in the energy consumption table using "Consumption Type" and "Year" columns.
-Data Modeling and Relationship Management:
-•	Automatic establishment of relationships in the Power BI data model based on matching key columns.
-•	Manual setup of a one-to-many relationship between dimension and fact tables using the "Key" column.
-Dashboard Visualization:
-•	Designed an Overview page with key metrics and visualizations.
-•	Visuals include cards, a map, bar charts, and donut charts for insights.
-•	Interactive elements like slicers allow data filtering and drilling down.
-Narrative and Summary:
-•	Descriptive text boxes provide context and highlight critical findings.
-Polishing and Final Touches:
-•	Refined dashboard with a consistent color scheme and clear labels for readability.
-•	Positioned and sized visuals for a balanced layout facilitating user comprehension.
-
+ 1.Data Extraction and Transformation:	Data sourced from an Excel spreadsheet.	Power Query used to load and transform data with the first row as headers. Selected the "Energy Consumption" dataset and unpivoted relevant columns.
+2.Key Creation for Rate Table:	Created a rate table with "Year" and "Energy Type."Generated a composite key, "Key," by merging "Year" and "Energy Type" columns.
+3.Key Creation for Energy Consumption Table:Created a similar "Key" which is the name of the column in the energy consumption table using "Consumption Type" and "Year" columns.
+4.Data Modeling and Relationship Management:Automatic establishment of relationships in the Power BI data model based on matching key columns.Manual setup of a one-to-many relationship between dimension and fact tables using the "Key" column.
+5.Dashboard Visualization:Designed an Overview page with key metrics and visualizations.Visuals include cards, a map, bar charts, and donut charts for insights.Interactive elements like slicers allow data filtering and drilling down.
+6.Narrative and Summary: Descriptive text boxes provide context and highlight critical findings.
+7.Polishing and Final Touches:Refined dashboard with a consistent color scheme and clear labels for readability.Positioned and sized visuals for a balanced layout facilitating user comprehension.
 
 
 ## SnapShorts
